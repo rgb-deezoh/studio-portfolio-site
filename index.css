@@ -2,3 +2,35 @@
     margin: 0;
     padding: 0;
 }
+nav{
+    background-color: white;
+    height: 80px;
+    display: flex;
+}
+nav ul {
+    align-items: right;
+}
+.about{
+    background-color: orangered;
+    color: white;
+    display: flex;
+}
+
+.service{
+    display: flex;
+}
+.service h4{
+    color: orangered;
+}
+.projects{
+    display: flex;
+}
+.projects h4{
+    color: orangered;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+}
